@@ -100,6 +100,8 @@ When choosing your architecture, ask:
 4. Is this event-driven? (Use EventBridge/SNS/SQS)
 5. Do I need containers? (Justify the complexity and operational overhead)
 
+
+
 ## Compliance
 
 All new services and features must adhere to these standards unless an exception is explicitly approved by the architecture review board.
